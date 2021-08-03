@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   East Vault
-</p>
+</h1>
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/math-reis/east_vault?style=flat-square">
 </p>
